@@ -1,9 +1,12 @@
 # GA-Coursework-Week-4
-jQuery Excercise
 
-This is a jQuery Excercise. The index and css code was provided. I wrote the JavaScript.
+General Assembly Coursework - Front End Web Development (10-Week Part-Time Course) - Week 4
+
+This is a excercise to practice writing jQuery. The index and css files were provided. I wrote the JavaScript.
 
 Goal of the excercise:
+
+Write jQuery code that will execute the following requirements:
 
 - Prevent a form submission with the ```event.preventDefault()``` function
 - Use the ```$.ready()``` handler to delay your code from executing until all DOM assets have been loaded
